@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<header>
+  <h1><a href="/">{{ site.title }}</a></h1>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/works">Works</a>
+    <a href="/about">About</a>
+    <a href="/submissions">Submissions</a>
+  </nav>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  <p>© {{ site.title }}</p>
+</footer>
+
+</body>
+</html>
