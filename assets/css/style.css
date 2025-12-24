@@ -1,30 +1,99 @@
+/* Base */
 body {
+  margin: 0;
   background: #faf7f2;
   color: #2b2b2b;
   font-family: "Libre Baskerville", serif;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
-header {
-  border-bottom: 1px solid #ddd;
+/* Header */
+.site-header {
+  background: #fffaf4;
+  border-bottom: 1px solid #e2ddd6;
+}
+
+.header-inner {
+  max-width: 1000px;
+  margin: 0 auto;
   padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-nav a {
-  margin-right: 1rem;
+.site-title a {
+  font-family: "Inter", sans-serif;
+  font-size: 1.4rem;
   text-decoration: none;
   color: #7a2e1d;
 }
 
-main {
+.site-nav a {
+  font-family: "Inter", sans-serif;
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #444;
+}
+
+.site-nav a:hover {
+  color: #7a2e1d;
+}
+
+/* Main content */
+.content {
   max-width: 720px;
-  margin: 2rem auto;
+  margin: 3rem auto;
   padding: 0 1rem;
 }
 
-footer {
-  text-align: center;
+/* Sections */
+.intro h2 {
+  font-size: 2rem;
+}
+
+.intro-text {
+  font-size: 1.1rem;
+}
+
+.featured {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: #fff;
+  border-left: 4px solid #7a2e1d;
+}
+
+.recent {
+  margin-top: 3rem;
+}
+
+/* Work cards */
+.work-card {
+  margin-bottom: 2.5rem;
+}
+
+.work-card h3,
+.work-card h4 {
+  margin-bottom: 0.2rem;
+}
+
+.meta {
   font-size: 0.9rem;
   color: #666;
 }
 
+.read-more {
+  font-family: "Inter", sans-serif;
+  font-size: 0.9rem;
+  color: #7a2e1d;
+  text-decoration: none;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #e2ddd6;
+  padding: 2rem 0;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+}
