@@ -22,35 +22,34 @@ event: spotlight-volume-1
 
 **Trigger Warnings:** Mentions of war, pests
 
-rubble-air fills
-battlefields once cities.
-
-summer drizzle over
-scalding metro manila.
-
-dismissal pre-evenings
-exchanging see you again's .
-
-pests scour
-houses once homes.
-
-disaster in reaction to
-disaster after disaster.
-make a more
-inward-outward play.
-
-look with me. you're
-looking with me at
-a world of desolation
-
-filled with us.
-only us.
-only us
-
-can make it kinder.
-
-hands were made to fill another.
-
+rubble-air fills  
+battlefields once cities.  
+  
+summer drizzle over  
+scalding metro manila.  
+  
+dismissal pre-evenings  
+exchanging see you again's.  
+  
+pests scour  
+houses once homes.  
+  
+disaster in reaction to  
+disaster after disaster.  
+make a more  
+inward-outward play.  
+  
+look with me. you're  
+looking with me at  
+a world of desolation  
+  
+filled with us.  
+only us.  
+only us  
+can make it kinder.  
+  
+hands were made to fill another.  
+  
 **<u>AUTHOR’S STATEMENT:</u>**
 I wrote this piece as a reflection on T.S. Elliot’s “The Waste Land” for my IDS 147: Great Books class 
 last semester. I wanted to capture the spectrum of what one might interpret as “disaster”---war,
