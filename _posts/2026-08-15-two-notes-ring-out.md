@@ -20,9 +20,9 @@ event: spotlight-volume-1
 
 ---
 
-**dal segno (adverb)**
-→ used as a direction in music to return to the sign that marks the beginning of a repeat
-**fermata (adverb)**
+**dal segno (adverb)**  
+→ used as a direction in music to return to the sign that marks the beginning of a repeat  
+**fermata (adverb)**  
 → a prolongation at the discretion of the performer of a musical note, chord, or rest beyond its
 given time value
 
