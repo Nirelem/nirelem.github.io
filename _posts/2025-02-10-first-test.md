@@ -4,7 +4,7 @@ title: Ashes and Ink
 author: Jane Doe
 penname: EmberQuill
 genre: Poetry
-featured: true
+featured: false
 event: spotlight-volume-1
 ---
 
