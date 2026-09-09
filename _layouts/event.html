@@ -27,7 +27,7 @@ layout: default
           {{ post.genre }} •
           {{ post.date | date: "%B %d, %Y" }}
         </p>
-        <p>{{ post.excerpt }}</p>
+        <!-- <p>{{ post.excerpt }}</p> -->
         <a class="read-more" href="{{ post.url | relative_url }}">Read →</a>
       </article>
     {% endfor %}
