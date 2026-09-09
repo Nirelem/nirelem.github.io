@@ -20,6 +20,8 @@ event: spotlight-volume-1
 
 ---
 
+**Trigger Warnings:** Mentions of war, pests
+
 rubble-air fills
 battlefields once cities.
 
