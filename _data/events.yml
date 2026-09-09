@@ -10,7 +10,7 @@
 # That's it — the dropdown menu and the event page will pick it up
 # automatically.
 
-- name: "Spotlight Volume 1"
+- name: "WriterSpotlight Vol. 1: Transition in Reference"
   slug: spotlight-volume-1
-- name: "Spotlight Volume 2"
+- name: "WriterSpotlight Vol. 2"
   slug: spotlight-volume-2
