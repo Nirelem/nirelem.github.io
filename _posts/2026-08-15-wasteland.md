@@ -50,7 +50,7 @@ can make it kinder.
 hands were made to fill another.
 
 **<u>AUTHOR’S STATEMENT:</u>**
-I wrote this piece as a reflection on T.S. Elliot’s “The Waste Land” for my IDS 147: Great Books class
+I wrote this piece as a reflection on T.S. Elliot’s “The Waste Land” for my IDS 147: Great Books class 
 last semester. I wanted to capture the spectrum of what one might interpret as “disaster”---war,
 invasion, goodbyes, etc. — and provide a profound yet simply human call to action as a means to
 address the reactionary world we live in.
