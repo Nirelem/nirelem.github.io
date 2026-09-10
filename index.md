@@ -22,7 +22,7 @@ title: Home
         <p class="meta">
           by {{ post.penname | default: post.author }} • {{ post.genre }}
         </p>
-        <p>{{ post.excerpt }}</p>
+        <!-- <p>{{ post.excerpt }}</p> -->
         <a class="read-more" href="{{ post.url }}">Read more →</a>
       </article>
     {% endif %}
@@ -38,7 +38,7 @@ title: Home
       <p class="meta">
         by {{ post.penname | default: post.author }} • {{ post.genre }}
       </p>
-      <p>{{ post.excerpt }}</p>
+      <!-- <p>{{ post.excerpt }}</p> -->
       <a class="read-more" href="{{ post.url }}">Read →</a>
     </article>
   {% endfor %}

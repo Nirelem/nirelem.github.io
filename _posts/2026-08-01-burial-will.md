@@ -23,15 +23,12 @@ event: spotlight-volume-1
 **Trigger Warnings:** Mentions of death
 
 <!--
-  This piece uses precise indentation and right-aligned "response" lines
-  that plain Markdown can't reproduce reliably (Markdown always collapses
-  leading spaces, and there's no way to pin text to the right margin with
-  spaces alone on a responsive page). So unlike the rest of the site's
-  posts, this whole body is written as raw HTML with inline margin-left
+  this whole body is written as HTML with inline margin-left
   styles for indentation, and the .poem-split CSS class (see style.css)
   for the lines where a reply is pushed to the right side of the same
-  line. If you want to adjust an indent depth, just change the "Xem"
-  number in that line's style attribute -- bigger number = more indent.
+  line 
+  to adjust an indent depth, just change the "Xem"
+  number in that line's style attribute (e.g. bigger number = more indent)
 -->
 
 <div class="poem-body">
