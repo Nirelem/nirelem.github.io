@@ -2,7 +2,7 @@
 layout: default
 title: "Graduation Speech"
 author: Reign Jamila
-penname: reign;
+penname: reign
 genre: Poetry
 featured: true
 event: spotlight-volume-1
