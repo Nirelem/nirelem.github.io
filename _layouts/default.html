@@ -36,8 +36,8 @@
         </div>
       </div>
 
-      <a href="/about">About</a>
       <a href="/collaborators">Collaborators</a>
+      <a href="/about">About</a>
       <a href="/submissions">Submissions</a>
     </nav>
   </div>
@@ -52,9 +52,6 @@
 </footer>
 
 <script>
-  // On devices without hover (touch), the first tap on "Works" opens the
-  // dropdown instead of navigating straight to the page; a second tap
-  // (or tapping an event in the menu) follows the link as normal.
   document.addEventListener("DOMContentLoaded", function () {
     var dropdown = document.querySelector(".nav-dropdown");
     if (!dropdown) return;
