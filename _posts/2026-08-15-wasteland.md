@@ -2,7 +2,7 @@
 layout: default
 title: "Wasteland"
 author: Gabriel Maramba
-penname: Gabriel Maramba
+penname: idlip
 genre: Poetry
 featured: false
 event: spotlight-volume-1

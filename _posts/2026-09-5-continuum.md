@@ -2,7 +2,7 @@
 layout: default
 title: "continuum"
 author: KD Say
-penname: KD Say
+penname: Kai
 genre: Poetry
 featured: false
 event: spotlight-volume-1
