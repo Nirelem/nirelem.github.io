@@ -90,18 +90,3 @@ event: spotlight-volume-1
 
 ---
 
-**<u>AUTHOR'S STATEMENT:</u>**
-"burial will" is the fifth poem in a suite of five poems that I wrote for Poetry Workshop 2. The suite
-is kind of like my journey to accepting my body, so it has themes of body dysmorphia, using disgust
-and obsession/yearning as its core emotions, nature as biological imagery, and some religious
-themes as part of the voice. I am very big on prosody, so my poems are meant to be read out loud. I
-was inspired a lot by Ruel de Vera's "Gambaphobia," Céline Sciamma's *Portrait of a Lady on Fire*,
-Flower Face's "Spiracle," and many of Sleep Token's songs.
-
-Unlike "note on a self-portrait," "burial will" is the climax of the suite, where the persona's mindset
-shifts into a desire to be more than the body—to be one with nature and to be natural and
-important—rather than just an exploration of it. It was heavily inspired by a conversation I had
-with my sister about how each of us wanted to die, and I told her that there were organizations that
-can use your bones (or crematorial remains) to revive coral reefs, which I still think is a better use of
-my body than simply burying it. In regards to feedback, I am open to any kind of constructive
-criticism and other comments!

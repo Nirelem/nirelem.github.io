@@ -64,11 +64,3 @@ a goodbye dinner: see you next semester.
 the clear blue sky, framed by beige plane windows;  
 and finally that bright red gate, welcoming you home.  
   
-**<u>AUTHOR’S STATEMENT:</u>**
-Though not even close to epic or heroic, I hope Calliope blesses my work nonetheless. This is a
-more personal piece, as it quite literally draws from moments in my own life, and the nostalgia I feel
-for the subtler things. I wanted to reminisce on the more mundane moments in life, snapshots of
-things both big and little that you don’t really think about when you recall them in your mind. I
-think that the transience of these little moments, immortalized in digital form, aligns well with the
-theme of transition in reference, and to an overall theme of living with the moments life throws at
-you, and using them as motivation for the future.

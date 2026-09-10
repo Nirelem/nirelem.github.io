@@ -42,12 +42,3 @@ seven years is never long until we
 speak of comfort, or a name not heard  
 in seventy one days. i ask: when a glow fades do we  
 light another?  
-  
-**<u>AUTHOR’S STATEMENT:</u>**
-“Starlight” and “Comet” represent different time periods in my life, one for the past and the other for
-the present. *Continuum* refers to the transition between these two time periods and the shift in the
-persona’s gaze from one star to another. I aimed to show the differences between the two in their
-separate stanzas, then zoomed the lens out to portray their first-glance similarities in the final stanza.
-The third stanza also includes that, however similar, the two are still separate people, and there is a
-difference in comfort in *Starlight*’s seven years and *Comet*’s seventy one days. I would like the feedback
-to focus on the effectivity of the last line, and if it is fitting as an end to the poem.

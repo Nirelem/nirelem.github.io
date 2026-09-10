@@ -113,12 +113,3 @@ smiling, waved bye back. For all the complexities of performance and musicianshi
 described, it was refreshing to just have that one moment of casualty to truly show how, at the end of
 the day, music was something communal that we could always go back to.
 
-**<u>AUTHOR’S STATEMENT:</u>**
-This piece was made with one idea in mind: combining two facets of music and turning them into a
-lesson on longevity. I wanted to establish that music, regardless of its form, is something that never
-quite leaves you, quietly supporting you during the stressful times of life through the impact attending
-a gig has on you. I recognize that the piece may be mistaken for following a dichotomy type of theme,
-but I will say that most of it is intended to come off as a reflection of the “downtime” passionate artists
-have by watching each other’s gigs and supporting each other in the industry, turning such gigs into a
-sweet memory before it’s back to business. In a way, music becomes that intersection between past and
-present (and most possibly the future) that touches both your soul and your mind.
