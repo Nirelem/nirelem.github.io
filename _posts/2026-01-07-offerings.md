@@ -5,7 +5,7 @@ author: SaBEANa
 penname: HimboLover
 genre: Fiction
 featured: false
-event: spotlight-volume-2
+event: spotlight-volume-1
 ---
 
 <h2>{{ page.title }}</h2>
@@ -19,6 +19,8 @@ event: spotlight-volume-2
 </div>
 
 ---
+
+**Disclaimer**: *This is a legacy piece that is not officially part of "WriterSpotlight Vol. 1" and was placed here for testing purposes. (special thanks to Sabina)*
 
 Carlo entered the stables of the farmhouse with a rush of excitement. The evening breeze made for a calm night along the grassy slopes, despite the thrill of celebrating his tenth birthday.
 
