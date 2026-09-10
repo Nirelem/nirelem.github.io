@@ -147,6 +147,17 @@ body {
   margin-bottom: 2.5rem;
 }
 
+/* Poem line that has a left-side speaker tag and a right-flushed
+   (usually italicized) response on the same visual line — used for
+   call-and-response style poems. See burial-will.md for example usage. */
+.poem-split {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin: 0;
+}
+
 .work-card h3,
 .work-card h4 {
   margin-bottom: 0.2rem;
