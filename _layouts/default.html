@@ -16,7 +16,9 @@
 <header class="site-header">
   <div class="header-inner">
     <h1 class="site-title">
-      <a href="/">{{ site.title }}</a>
+      <a href="/">
+        <img src="{{ "/assets/images/writerskill-wordmark.png" | relative_url }}" alt="{{ site.title }}" class="site-title-logo">
+      </a>
     </h1>
 
     <nav class="site-nav">
@@ -49,6 +51,7 @@
 
 <footer class="site-footer">
   <p>© {{ site.title }}</p>
+  <img src="{{ "/assets/images/writerskill-logo.png" | relative_url }}" alt="{{ site.title }} logo" class="site-footer-logo">
 </footer>
 
 <script>

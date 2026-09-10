@@ -27,6 +27,14 @@ body {
   font-size: 1.4rem;
   text-decoration: none;
   color: #7a2e1d;
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-title-logo {
+  display: block;
+  height: 2.45rem; /* matches the line-height of the text title it replaced */
+  width: auto;
 }
 
 .site-nav a {
@@ -182,6 +190,13 @@ body {
   text-align: center;
   font-size: 0.85rem;
   color: #777;
+}
+
+.site-footer-logo {
+  display: block;
+  height: 5.625rem;
+  width: auto;
+  margin: 0.75rem auto 0;
 }
 
 /* Events index (/works) */
