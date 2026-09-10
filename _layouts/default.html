@@ -49,6 +49,19 @@
   {{ content }}
 </main>
 
+{% if page.layout == "default" and page.penname %}
+  {% assign collaborator = site.pages | where: "penname", page.penname | first %}
+
+  {% if collaborator %}
+    <hr>
+
+    <section class="author-bio">
+      <h3>About {{ page.penname }}</h3>
+      <p>{{ collaborator.bio }}</p>
+    </section>
+  {% endif %}
+{% endif %}
+
 <footer class="site-footer">
   <p>© {{ site.title }}</p>
   <img src="{{ "/assets/images/writerskill-logo.png" | relative_url }}" alt="{{ site.title }} logo" class="site-footer-logo">
