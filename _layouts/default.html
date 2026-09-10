@@ -47,9 +47,8 @@
 
 <main class="content">
   {{ content }}
-</main>
 
-{% if page.layout == "default" and page.penname %}
+  {% if page.layout == "default" and page.penname %}
   {% assign collaborator = site.pages | where: "penname", page.penname | first %}
 
   {% if collaborator %}
@@ -61,6 +60,7 @@
     </section>
   {% endif %}
 {% endif %}
+</main>
 
 <footer class="site-footer">
   <p>© {{ site.title }}</p>

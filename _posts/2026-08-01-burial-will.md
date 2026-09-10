@@ -87,6 +87,3 @@ event: spotlight-volume-1
 <p style="margin:0 0 0 6em;">starlight.</p>
 
 </div>
-
----
-
