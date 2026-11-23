@@ -4,7 +4,7 @@ title: "Graduation Speech"
 author: Reign Jamila
 penname: reign
 genre: Poetry
-featured: true
+featured: false
 event: spotlight-volume-1
 ---
 

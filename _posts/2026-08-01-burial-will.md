@@ -26,9 +26,8 @@ event: spotlight-volume-1
   this whole body is written as HTML with inline margin-left
   styles for indentation, and the .poem-split CSS class (see style.css)
   for the lines where a reply is pushed to the right side of the same
-  line 
-  to adjust an indent depth, just change the "Xem"
-  number in that line's style attribute (e.g. bigger number = more indent)
+  line, to adjust an indent depth, just change the "Xem"
+  number in that line's style attribute (e.g. bigger number = more indent) 
 -->
 
 <div class="poem-body">
